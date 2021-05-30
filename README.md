@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const appStyle = {
-    height: '250px',
+    height: '280px',
     display: 'flex'
 };
 
 const formStyle = {
     margin: 'auto',
-    padding: '10px',
-    border: '1px solid #c9c9c9',
+    padding: '15px',
+    border: '2px solid #c9c9c9',
     borderRadius: '5px',
     background: '#f5f5f5',
     width: '220px',
@@ -18,12 +18,12 @@ const formStyle = {
 
 const labelStyle = {
     margin: '10px 0 5px 0',
-    fontFamily: 'Arial, Helvetica, sans-serif',
+    fontFamily: 'Arial, Times new Roman, sans-serif',
     fontSize: '15px',
 };
 
 const inputStyle = {
-    margin: '5px 0 10px 0',
+    margin: '4px 0 10px 0',
     padding: '5px', 
     border: '1px solid #bfbfbf',
     borderRadius: '3px',
@@ -39,7 +39,7 @@ const submitStyle = {
     background: '#3085d6',
     width: '100%', 
     fontSize: '15px',
-    color: 'white',
+    color: 'gray',
     display: 'block'
 };
 
